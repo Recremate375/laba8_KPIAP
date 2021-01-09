@@ -697,7 +697,7 @@ public:
         this->close();
     }
 
-    void deleteAbonent(int line, Salary mas[]) {
+    void deleteSotrudnik(int line, Salary mas[]) {
         this->open("wr");
 
         int a, b;
@@ -1059,7 +1059,7 @@ int main()
 
     file2.open("w");
     cout << "Ezhova_Ekaterina_Elkovna 20000 kus - deleted" << endl;
-    file2.deleteAbonent(lineToDel, un);
+    file2.deleteSotrudnik(lineToDel, un);
     file2.close();
 
     rewind(stdin);
