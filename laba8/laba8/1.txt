@@ -1,0 +1,5 @@
+Cetov_Ctepan_Cergeevich 30000   labs
+Demidov_Denis_Dmitrievich 20000   meow
+Antipov_Andrey_Alexeevich 21500   bsuir
+Betalis_Betaliy_Borisovich 40000   mur
+Ezhova_Ekaterina_Elkovna 20000   kus

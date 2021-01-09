@@ -1,0 +1,25 @@
+﻿  laba8.cpp
+c:\users\алексей\source\repos\laba8\laba8\laba8.cpp(392): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\алексей\source\repos\laba8\laba8\laba8.cpp(456): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\алексей\source\repos\laba8\laba8\laba8.cpp(620): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\алексей\source\repos\laba8\laba8\laba8.cpp(638): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\алексей\source\repos\laba8\laba8\laba8.cpp(640): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\алексей\source\repos\laba8\laba8\laba8.cpp(646): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\алексей\source\repos\laba8\laba8\laba8.cpp(676): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\алексей\source\repos\laba8\laba8\laba8.cpp(683): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\алексей\source\repos\laba8\laba8\laba8.cpp(756): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\алексей\source\repos\laba8\laba8\laba8.cpp(772): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\алексей\source\repos\laba8\laba8\laba8.cpp(774): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\алексей\source\repos\laba8\laba8\laba8.cpp(780): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\алексей\source\repos\laba8\laba8\laba8.cpp(811): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\алексей\source\repos\laba8\laba8\laba8.cpp(818): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\алексей\source\repos\laba8\laba8\laba8.cpp(858): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\алексей\source\repos\laba8\laba8\laba8.cpp(861): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\алексей\source\repos\laba8\laba8\laba8.cpp(869): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\алексей\source\repos\laba8\laba8\laba8.cpp(914): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\алексей\source\repos\laba8\laba8\laba8.cpp(917): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\алексей\source\repos\laba8\laba8\laba8.cpp(925): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\алексей\source\repos\laba8\laba8\laba8.cpp(968): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\алексей\source\repos\laba8\laba8\laba8.cpp(971): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+c:\users\алексей\source\repos\laba8\laba8\laba8.cpp(979): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+  laba8.vcxproj -> C:\Users\Алексей\source\repos\laba8\Debug\laba8.exe
