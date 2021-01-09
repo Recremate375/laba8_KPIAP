@@ -44,7 +44,7 @@ private:
     string otdel_name;
 public:
     string fio;
-    Salary() : fio("abonent"), salary_size(0), otdel_name("-") {}
+    Salary() : fio("sotrudnik"), salary_size(0), otdel_name("-") {}
     Salary(string f, int g, string s) : fio(f), salary_size(g), otdel_name(s) {}
     void setFio(string f)
     {
@@ -1048,9 +1048,9 @@ int main()
 
     int i = 0, lineToEdit = 3;
 
-    cout << "abonent to change - 3" << endl;
+    cout << "sotrunik to change - 3" << endl;
     lineToEdit = 3;
-    cout << "abonent to delete - 5" << endl;
+    cout << "sotrudnik to delete - 5" << endl;
     int lineToDel = 5;
 
     file2.open("r");
